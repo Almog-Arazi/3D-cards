@@ -9,8 +9,7 @@ https://almog-arazi.github.io/3D-cards/
 
 <p align="center">
   <a href="https://ibb.co/gTMmw4k">
-    <img src="https://ibb.co/TgNgFct" alt="Laptop" border="0" width="400">
+    <img src="https://i.ibb.co/W2R2Ynf/aa.png" alt="Laptop" border="0" width="400">
   </a>
 </p>
 
-https://ibb.co/TgNgFct
