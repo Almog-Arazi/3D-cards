@@ -99,6 +99,7 @@ body {
 
 .all{
   background-color: rgba(250, 235, 215, 0.445);
+  backdrop-filter: blur(3px);
   margin: 10%;
   padding: 2%;
   border-radius: 2%;
